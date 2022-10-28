@@ -14,4 +14,4 @@ grid layout, анимация, медиазапросы.
 В дальнейшем планируется реализовать перевод и переключение страницы на английский язык
 для иностранныйх пользователей.
 
-ссылка на сайт: https://agurchkova.github.io/russian-travel/
+ссылка на сайт: https://agurchkova.github.io/russian-travel-NEW/
