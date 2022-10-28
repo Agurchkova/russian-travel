@@ -1,0 +1,22 @@
+.header {
+  font-family: "Inter", Arial, sans-serif;
+  min-height: 52px;
+  max-width: 1184px;
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-end;
+  margin: 0 48px 0;
+}
+
+@media screen and (max-width: 984px) {
+  .header {
+    margin: 0 24px 0;
+  }
+}
+
+@media screen and (max-width: 568px) {
+    .header {
+      min-height: 42px;
+      margin: 0 16px 0;
+    }
+}
