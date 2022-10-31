@@ -1,6 +1,5 @@
 .header {
   font-family: "Inter", Arial, sans-serif;
-  min-height: 52px;
   max-width: 1184px;
   display: flex;
   justify-content: space-between;
@@ -16,7 +15,6 @@
 
 @media screen and (max-width: 568px) {
     .header {
-      min-height: 42px;
       margin: 0 16px 0;
     }
 }

@@ -6,7 +6,6 @@
     color: #FFFFFF;
     max-width: 720px;
     margin: 0 auto 32px;
-    min-height: 200px;
 }
 
 @media screen and (max-width: 720px) {
@@ -23,7 +22,6 @@
 
 @media screen and (max-width: 568px) {
     .lead__title {
-        min-height: 88px;
         max-width: 288px;
         font-size: 40px;
         line-height: 1.10;
