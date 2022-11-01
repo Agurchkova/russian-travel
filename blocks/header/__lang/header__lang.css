@@ -4,10 +4,11 @@
     display: flex;
     flex-direction: row;
     list-style: none;
+    gap: 18px;
 }
 
 @media screen and (max-width: 568px) {
     .header__lang {
         margin: 14px 0 8px;
-}
+    }
 }

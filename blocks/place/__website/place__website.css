@@ -1,12 +1,10 @@
 .place__website {
     grid-area: website;
     align-self: end;
-}
-
-@media screen and (max-width: 1124px) {
-    .place__website {
-        max-width: 456px;
-    }
+    max-width: 456px;
+    display: flex;
+    flex-direction: column;
+    gap: 12px;
 }
 
 @media screen and (max-width: 984px) {
