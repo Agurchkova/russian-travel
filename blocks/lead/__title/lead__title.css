@@ -22,17 +22,10 @@
 
 @media screen and (max-width: 568px) {
     .lead__title {
-        max-width: 450px;
-        font-size: 50px;
+        max-width: 288px;
+        font-size: 40px;
         line-height: 1.10;
         margin: 0 auto 16px;
         align-self: center;
-    } 
-}
-
-@media screen and (max-width: 320px) {
-    .lead__title {
-        max-width: 288px;
-        font-size: 40px;
     } 
 }
